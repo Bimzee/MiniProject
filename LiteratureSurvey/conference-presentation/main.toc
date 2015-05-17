@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{SOA}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Existing Methods}{4}{0}{1}
+\beamer@subsectionintoc {1}{3}{SOAP Bundling Framework}{4}{0}{1}
+\beamer@subsectionintoc {1}{4}{Perturbation Testing}{5}{0}{1}
+\beamer@sectionintoc {2}{Second Main Section}{13}{0}{2}
+\beamer@subsectionintoc {2}{1}{Another Subsection}{13}{0}{2}

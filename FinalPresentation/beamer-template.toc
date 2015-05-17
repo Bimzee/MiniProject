@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.33pt}
+\select@language {english}
+\beamer@sectionintoc {1}{\scshape Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{\scshape LITERATURE SURVEY}{6}{0}{2}
+\beamer@sectionintoc {3}{\scshape METHODOLOGY}{21}{0}{3}
+\beamer@sectionintoc {4}{CONCLUSION}{30}{0}{4}

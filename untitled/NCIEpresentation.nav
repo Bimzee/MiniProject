@@ -1,0 +1,72 @@
+\beamer@endinputifotherversion {3.33pt}
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\sectionentry {1}{Introduction}{3}{Introduction}{0}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{3}{SOA \& Web Service }}\headcommand {\beamer@subsectionpages {3}{2}}
+\headcommand {\slideentry {1}{1}{1}{3/3}{SOA \& Web Service }{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\sectionentry {2}{Survey Works}{4}{Survey Works}{0}}
+\headcommand {\beamer@sectionpages {3}{3}}
+\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\slideentry {2}{0}{2}{4/4}{}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{5}{Automated Robustness Testing }}\headcommand {\beamer@subsectionpages {4}{4}}
+\headcommand {\slideentry {2}{1}{1}{5/5}{Automated Robustness Testing }{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\slideentry {2}{1}{2}{6/6}{Automated Robustness Testing }{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{7}{Perturbation Based Testing}}\headcommand {\beamer@subsectionpages {5}{6}}
+\headcommand {\slideentry {2}{2}{1}{7/7}{Perturbation Based Testing}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\slideentry {2}{2}{2}{8/8}{Perturbation Based Testing}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{9}{Message Exchange by SOAP Bundling Framework}}\headcommand {\beamer@subsectionpages {7}{8}}
+\headcommand {\slideentry {2}{3}{1}{9/9}{Message Exchange by SOAP Bundling Framework}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\slideentry {2}{3}{2}{10/10}{Message Exchange by SOAP Bundling Framework}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\beamer@subsectionentry {0}{2}{4}{11}{Using Data Perturbation}}\headcommand {\beamer@subsectionpages {9}{10}}
+\headcommand {\slideentry {2}{4}{1}{11/11}{Using Data Perturbation}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\beamer@subsectionentry {0}{2}{5}{12}{Adaptive Random Testing}}\headcommand {\beamer@subsectionpages {11}{11}}
+\headcommand {\slideentry {2}{5}{1}{12/12}{Adaptive Random Testing}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\beamer@subsectionentry {0}{2}{6}{13}{XML Perturbation}}\headcommand {\beamer@subsectionpages {12}{12}}
+\headcommand {\slideentry {2}{6}{1}{13/13}{XML Perturbation}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\beamer@subsectionentry {0}{2}{7}{14}{Combinatorial Mutation}}\headcommand {\beamer@subsectionpages {13}{13}}
+\headcommand {\slideentry {2}{7}{1}{14/14}{Combinatorial Mutation}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\beamer@subsectionentry {0}{2}{8}{15}{API based security solutions}}\headcommand {\beamer@subsectionpages {14}{14}}
+\headcommand {\slideentry {2}{8}{1}{15/15}{API based security solutions}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\slideentry {2}{8}{2}{16/16}{API based security solutions}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\beamer@subsectionentry {0}{2}{9}{17}{Worst-Input Mutation Approach}}\headcommand {\beamer@subsectionpages {15}{16}}
+\headcommand {\slideentry {2}{9}{1}{17/17}{Worst-Input Mutation Approach}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\slideentry {2}{9}{2}{18/18}{Worst-Input Mutation Approach}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\slideentry {2}{9}{3}{19/19}{Worst-Input Mutation Approach}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\slideentry {2}{9}{4}{20/20}{Worst-Input Mutation Approach}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\slideentry {2}{9}{5}{21/21}{Worst-Input Mutation Approach}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\slideentry {2}{9}{6}{22/22}{Worst-Input Mutation Approach}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\slideentry {2}{9}{7}{23/23}{Worst-Input Mutation Approach}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\slideentry {2}{9}{7}{23/24}{Worst-Input Mutation Approach}{0}}
+\headcommand {\beamer@framepages {23}{24}}
+\headcommand {\slideentry {2}{9}{8}{25/25}{Worst-Input Mutation Approach}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\beamer@partpages {1}{25}}
+\headcommand {\beamer@subsectionpages {17}{25}}
+\headcommand {\beamer@sectionpages {4}{25}}
+\headcommand {\beamer@documentpages {25}}
+\headcommand {\def \inserttotalframenumber {21}}
